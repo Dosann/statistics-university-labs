@@ -1,1 +1,3 @@
-# statistics-university-labs
+# Statistics labs
+---
+BSU, 2021
